@@ -11,7 +11,8 @@
 
 header{
     padding:30px 40px;
-    box-shadow: 0 0 10px white;
+    box-shadow: 0 10px 30px white;
+    border-bottom: 2px solid white;
 }
 
 nav{
