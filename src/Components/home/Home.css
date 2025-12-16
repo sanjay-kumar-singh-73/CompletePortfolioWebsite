@@ -2,12 +2,14 @@
     display:flex;
     align-items:center;
     justify-content:space-around;
-    height:75vh;
+    height:85vh;
 }
 
 .left{
     margin-left:100px;
     width:50%;
+    /* margin-bottom:30px; */
+    /* height:90vh; */
 }
 
 h3{
